@@ -1,72 +1,56 @@
-# Local SEO Checklist
+# 🚀 Local SEO Checklist
 
-Welcome to the official Local SEO resource repository by GMB Guru.
+Free Local SEO resources, Google Business Profile optimization guides, audit checklists, schema templates, citation resources, AI prompts, and technical SEO documentation.
 
-This repository contains free Local SEO resources, Google Business Profile optimization guides, templates, audit checklists, and schema examples to help businesses improve their Google Maps rankings.
+## 📚 Resources
 
-## What You'll Find
-
+### ✅ Audit Checklists
 - Google Business Profile Audit Checklist
-- Local SEO Checklist
-- Citation Resources
-- FAQ Schema Templates
+- Website SEO Audit Checklist
+- Technical SEO Audit Checklist
+- Local SEO Audit Checklist
+
+### ✅ Schema Library
 - LocalBusiness Schema
-- AI SEO Prompts
+- FAQ Schema
+- Service Schema
+- Organization Schema
+
+### ✅ Templates
+- Google Business Profile Description Template
+- Review Response Templates
 - Review Request Templates
-- Website SEO Audit
+- Service Page Template
+
+### ✅ Citation Resources
+- USA Citation Sites
+- Canada Citation Sites
+- UK Citation Sites
+
+### ✅ Technical SEO
+- Robots.txt Examples
+- Sitemap Examples
+- Core Web Vitals Checklist
+
+### ✅ AI Resources
+- Local SEO Prompts
+- GBP Prompts
+- SEO Automation Prompts
 
 ---
 
-## Google Business Profile Audit
-
-✔ Primary Category
-
-✔ Secondary Categories
-
-✔ Business Description
-
-✔ Services
-
-✔ Products
-
-✔ Photos
-
-✔ Reviews
-
-✔ Service Areas
-
-✔ Website URL
-
-✔ Appointment URL
-
----
-
-## Useful Resources
-
-Website
+## 🌐 Website
 
 https://gmb-guru.com
 
-Blog
+## 📖 Blog
 
 https://gmb-guru.com/blog
 
-Services
+## 📩 Contact
 
-https://gmb-guru.com/services
-
----
-
-## About GMB Guru
-
-GMB Guru helps local businesses improve Google Maps visibility through Google Business Profile optimization, Local SEO, citation building, website SEO, and AI-powered optimization strategies.
-
-Visit:
-
-https://gmb-guru.com
+https://gmb-guru.com/contact
 
 ---
 
-## License
-
-MIT
+⭐ If you find this repository useful, consider giving it a Star.
