@@ -1,0 +1,14 @@
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"How do I optimize my Google Business Profile?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Complete every profile section, add services, collect reviews and publish regular updates."
+      }
+    }
+  ]
+}
